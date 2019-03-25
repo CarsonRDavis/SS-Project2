@@ -1,0 +1,17 @@
+commit bba3badf51012ec60a48b5767e80713c85372500
+Author: Carson Davis <carsondavis340@gmail.com>
+Date:   Mon Mar 25 15:49:16 2019 -0400
+
+    Finished all of task 2. This includes adding the image uploader and making sure all current functions are working.
+
+commit 9e060b4baf541fe4cb44c7a27eae4296da78d38b
+Author: Carson Davis <carsondavis340@gmail.com>
+Date:   Wed Mar 20 12:21:06 2019 -0400
+
+    Finished all the tasks required from the book in section 2
+
+commit 5c5c3419e2e81a0684fd9f0ddf18e17c7e5f6304
+Author: Carson Davis <carsondavis340@gmail.com>
+Date:   Wed Mar 20 11:48:17 2019 -0400
+
+    Finished Task A in the book. It was creating the database and then making it look nice.
