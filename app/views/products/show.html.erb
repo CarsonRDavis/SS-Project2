@@ -12,7 +12,7 @@
 
 <p>
   <strong>Image url:</strong>
-  <%= @product.image_url %>
+  <%= image_tag(@product.image_url.url, width: 200) if @product.image_url.url.present? %>
 </p>
 
 <p>
